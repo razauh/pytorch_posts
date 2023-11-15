@@ -21,18 +21,18 @@ To run this script, you need to have Python installed along with the following p
 You can install these packages using pip:
 
 ```bash
-pip install playwright pandas
+pip install playwright pandas```
 
 Additionally, you need to install the Playwright browser binaries:
 ```bash
-playwright install
+playwright install```
 
 ## Usage
 
 To run the script, simply execute it with Python:
 
 ```bash
-python path_to_script.py
+python path_to_script.py```
 
 
 ## Output
